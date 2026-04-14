@@ -114,7 +114,7 @@ tienda.agregar_producto(p1)
 tienda.agregar_producto(p2)
 
 # Usuario
-usuario = Usuario("Daniel", "nietodaniel365@gmail.com", "Barranquilla", "123456")
+usuario = Usuario("Daniel", "nietodaniel365@gmail.com", "Barranquilla", "3137675400")
 
 # Carrito
 carrito = Carrito()
